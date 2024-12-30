@@ -1,7 +1,7 @@
 # python_pj-mini-
 after edu, will make mini_pj
 
-파이썬 공부용 리드미 파일
+파이썬 공부용 리드미 파일 \n
 공부 실습 및 그때그때 생각나는 무언가 커밋
 
 파이썬
